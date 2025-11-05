@@ -1,5 +1,5 @@
 1. Enlace al repositorio de GitHub del proyecto:
-   https://github.com/tuusuario/lenguaje_visual_II_CodeLearnGame
+   https://github.com/brahiansamuelsanchezescobar5-jpg/lenguaje_visuales2
 
 2. Enlace al tablero de Trello utilizado para la organización:
-   https://trello.com/b/ejemplo/codelearn-tareas
+   https://trello.com/b/hWXGIyDN/trabajo-de-lenguaje-visual
